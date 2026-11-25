@@ -4,6 +4,7 @@ Cool things you should know about, rated out of Yoink. Every video, with its lin
 
 | # | Yoink | Replaces | Rating | Get it | Watch |
 |---|---|---|---|---|---|
+| 11 | **EffectCraft** | After Effects ($22.99 a month) | 8/10 | [storytold/effectcraft](https://github.com/storytold/effectcraft) | [Short](https://www.youtube.com/shorts/OSoJJNf7LOo) |
 | 9 | **LibreOffice** | Microsoft 365 ($100 a year) | 9/10 | [LibreOffice/core](https://github.com/LibreOffice/core) | [Short](https://www.youtube.com/shorts/cwqtrtcAO_c) |
 | 8 | **TRELLIS.2** | Meshy Pro ($20 a month) | 8/10 | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | [Short](https://www.youtube.com/shorts/21HrLA1IoYc) |
 | 7 | **FilmCraft** | Premiere Pro ($22.99 a month) | 9/10 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | [Short](https://www.youtube.com/shorts/MpMb2Spzmas) |
