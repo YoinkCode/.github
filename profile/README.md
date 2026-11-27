@@ -4,6 +4,7 @@ Cool things you should know about, rated out of Yoink. Every video, with its lin
 
 | # | Yoink | Replaces | Rating | Get it | Watch |
 |---|---|---|---|---|---|
+| 12 | **LTX** | Sora (closed in 2026) | 7/10 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | [Short](https://www.youtube.com/shorts/_EtrhrA0Ovg) |
 | 11 | **EffectCraft** | After Effects ($22.99 a month) | 8/10 | [storytold/effectcraft](https://github.com/storytold/effectcraft) | [Short](https://www.youtube.com/shorts/OSoJJNf7LOo) |
 | 10 | **5 free alternatives: PhotoCraft, GridCraft, WordCraft, FilmCraft, CADCraft** | Photoshop, Excel, Word, Premiere Pro, AutoCAD ($2,500+ a year) | 8 to 9/10 | [storytold](https://github.com/storytold) | [Short](https://www.youtube.com/shorts/8b3baVOC228) |
 | 9 | **LibreOffice** | Microsoft 365 ($100 a year) | 9/10 | [LibreOffice/core](https://github.com/LibreOffice/core) | [Short](https://www.youtube.com/shorts/cwqtrtcAO_c) |
